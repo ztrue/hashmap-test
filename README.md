@@ -1,5 +1,5 @@
 # Test Work
-https://github.com/trafficstars/test-job
+Requirements (task 1): https://github.com/trafficstars/test-job
 
 `make install` – install dependencies (testify)
 
