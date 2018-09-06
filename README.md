@@ -1,4 +1,4 @@
-# Test Work
+# HashMap Test Work
 Requirements (task 1): https://github.com/trafficstars/test-job
 
 `make install` – install dependencies (testify)
