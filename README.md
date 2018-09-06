@@ -2,7 +2,9 @@
 https://github.com/trafficstars/test-job
 
 `make install` – install dependencies (testify)
+
 `make test` – run unit tests
+
 `make bench` – run benchmarks
 
 ```
